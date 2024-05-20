@@ -53,7 +53,7 @@
     "express-react-views": "^0.10.5",
     "express-secure-only": "^0.2.1",
     "helmet": "^3.9.0",
-    "prop-types": "^15.6.0",
+    "prop-types": "^15.8.1",
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "react-dropzone": "^4.2.5",
